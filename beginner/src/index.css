@@ -1,0 +1,13 @@
+.col-3{
+  border: 2px dotted darkcyan;
+  padding: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  box-sizing: border-box;
+}
+
+.cards{
+  width: 25%;
+  overflow: hidden;
+  box-sizing: border-box;
+}

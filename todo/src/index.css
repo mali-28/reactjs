@@ -1,0 +1,11 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+body{ height: 100vh; background-color: #6782AA; display: flex; justify-content: center; align-items: center;}
+.card-div{min-height: 70vh; width: 250px; background-color: #fff; padding: 20px 0; border-radius: 20px; text-align: center;}
+h1{color:#fff;  background-color:#876BA9; padding: 5px 0 2px 0; margin-bottom: 10px;}
+input{height: 30px;width: 60%; font-size: 20px; font-weight: 500; background-color: transparent; top: 10px; text-align: center; border: none; border-bottom: 2px solid #8566aa;outline: none;color: red;outline: none;}
+.btn-add{min-height: 30px; width: 33px; border-radius: 30px; border-color: transparent;background-color: #8566aa;color:#fff;font-size: 30px;border:none;margin-left: 15px; box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.3);}
+.btn-cross{height: 20px; width: 20px; border-radius: 20px; border-color: transparent;background-color: #8566aa;color:#fff;font-size: 18px;border:none;margin-right: 15px; font-weight: bold;}
+.btn-add:hover{background-color: #14AA6B; cursor: pointer;}
+.btn-cross:hover{background-color: red; cursor: pointer;}
+.list{ margin-left: 40px;  text-align: left; font-size: 1.5rem; color: #8566aa;}
+li{list-style: none; margin-bottom: 10px;}

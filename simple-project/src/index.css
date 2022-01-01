@@ -1,0 +1,8 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+body{background-color:#6681A9; height: 100vh; display: flex; justify-content: center; align-items: center;}
+.div{height: 70vh; background-color: #F5F4F6; border-radius: 20px; box-sizing: border-box; overflow: hidden;}
+.heading{background-color:moccasin; padding: 20px; }
+.btn-div{display: flex; justify-content: space-around; }
+.btn-div Button{font-size: 2rem; margin: 20px 0; border: none; box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.3);}
+.btn-green:hover{color: #2ed573;}
+.btn-red:hover{color: #ff4757;}
